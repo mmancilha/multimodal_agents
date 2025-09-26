@@ -9,9 +9,6 @@
 
 > **🚀 Projeto de Especialização:** API REST multimodal desenvolvida durante aprimoramento profissional em **IA & Machine Learning** pela IT Valley School.
 
-### 👨‍💻 **Sobre o Desenvolvedor**
-🔗 **[Visite meu GitHub completo →](https://github.com/mmancilha)** para ver mais projetos, tecnologias e experiência profissional!
-
 ## 📋 Sobre o Projeto
 
 API REST robusta que integra múltiplas capacidades de IA da OpenAI em uma interface unificada, incluindo processamento de texto, áudio e visão computacional.
